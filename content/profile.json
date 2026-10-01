@@ -1,0 +1,16 @@
+{
+  "name": "姓名待填写",
+  "englishName": "",
+  "role": "人工智能 · 视频理解",
+  "affiliation": "学校 / 实验室待补充",
+  "intro": "关注视频中的视觉信息与时序语义。这里将记录我的研究、项目实践，以及从实验到实现的过程。",
+  "email": "",
+  "github": "https://github.com/Dreamerposter",
+  "scholar": "",
+  "location": "所在地待补充",
+  "updated": "2026.10",
+  "demoVideo": "/assets/sample-video.mp4",
+  "demoPoster": "/assets/sample-poster.jpg",
+  "demoIsExample": true,
+  "isDraft": true
+}
